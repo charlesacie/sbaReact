@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-photo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid #FF6600;
+  }
+  
+  .contact-info {
+    margin-left: 20px;
+  }
+  
+  .contact-info h1 {
+    color: #FF6600;
+  }
+  
